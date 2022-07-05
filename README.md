@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @conradozb
-- 👀 I’m interested in learning and sharing about data analysis with Python
-- 🌱 I’m currently re-learning the basis of Python but now for Data Science.
-- 💞️ I’m looking to collaborate on any related field of data analysis. 
+- 👀 I am very happy to have found my IKIGAI in Data Science, machine learning and data analysis.
+- 🌱 Almost every day since January 2022 I have been working with Python. I'm guessing I've had at least 2500 hours on it. My most recent fraud prediction project is a sign of my progress.
+- 💞️ Although there is much more to learn, I am very excited for a first job in this discipline in which I believe I am ready for a good start. 
 - 📫 How to reach me at conzarbad@gmail.com
 
 <!---
