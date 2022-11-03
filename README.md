@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @conradozb
-- 👀 I am very happy to have found my IKIGAI in Data Science, machine learning and data analysis.
-- 🌱 Almost every day since January 2022 I have been working with Python. I'm guessing I've had at least 2500 hours on it. My most recent fraud prediction project is a sign of my progress.
-- 💞️ Although there is much more to learn, I am very excited for a first job in this discipline in which I believe I am ready for a good start. 
+- 👀 I am very happy to have found my IKIGAI in Data Analysis,  Machine Learning and Data Science disciplines.
+- 🌱 Almost every day (Monday-Sunday all day long) since January 2022 I have been working with Python and ML. So I'm guessing I've had at least 2500 hours of self guidance and learning. My most recent work is about MLFlow with Scikit-Learn.
+- 💞️ Although there is much more to learn, I believe I am ready for a good start for a first job into this disciplines. 
 - 📫 How to reach me at conzarbad@gmail.com
 
 <!---
